@@ -54,7 +54,7 @@ Search Recepies:
   8.MySQL.
 
 ### What I'll Have to Learn
-New Technologies:
+New Technologies:=
 1.JPA
 2.Spring Data JPA
 3.MySQL
