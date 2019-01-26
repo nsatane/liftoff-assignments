@@ -21,4 +21,4 @@ https://www.pivotaltracker.com/n/projects/2239982
 
 (Include a link to your project on GitHub)
 
-https://github.com/nsatane/My-Kitchen..Yum-Taste-always
+https://github.com/nsatane/MyFoodPassion
